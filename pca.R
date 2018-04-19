@@ -13,6 +13,7 @@ plot(pcaCars, type = "l")
 
 # bar plot
 plot(pcaCars)
+hello
 
 # write eigen
 names(pcaCars)
